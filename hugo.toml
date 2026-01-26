@@ -41,3 +41,7 @@ theme = 'hugo-theme-m10c'
       unsafe = true
     [markup.goldmark.parser]
       attribute = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
