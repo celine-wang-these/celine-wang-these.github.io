@@ -42,6 +42,3 @@ theme = 'hugo-theme-m10c'
     [markup.goldmark.parser]
       attribute = true
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
