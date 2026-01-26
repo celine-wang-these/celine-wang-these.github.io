@@ -1,6 +1,6 @@
 baseURL = 'https://celine-wang-these.github.io/'
 languageCode = 'en-us'
-title = 'Céline Wang'
+title = 'Céline Wang - Personal Web Page'
 theme = 'hugo-theme-m10c'
 
 [pagination]
@@ -12,6 +12,8 @@ theme = 'hugo-theme-m10c'
     description = "PhD student in Mathematics Applied to Ecology."
     menu_item_separator = " - "
     email = "celine.wang@univ-lille.fr"
+    sidebarTitle = "Céline Wang"
+    
     [[params.social]]
         name = "Email"
         url = "mailto:celine.wang@univ-lille.fr"
