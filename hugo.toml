@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Céline Wang'
+theme = 'hugo-theme-m10c'
+
+[pagination]
+  pagerSize = 8
+
+[params]
+    author = "Céline Wang"
+    avatar = "/avatar.png"
+    description = "PhD student in Mathematics Applied to Ecology."
+    menu_item_separator = " - "
+    email = "celine.wang@univ-lille.fr"
+    [[params.social]]
+        name = "Email"
+        url = "mailto:celine.wang@univ-lille.fr"
+        icon = "mail"
+    
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About Me"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "CV"
+        name = "CV"
+        url = "/CV/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "papers"
+        name = "Papers"
+        url = "/papers/"
+        weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
