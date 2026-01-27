@@ -1,6 +1,6 @@
 baseURL = 'https://celine-wang-these.github.io/'
 languageCode = 'en-us'
-title = 'Céline Wang - Personal Web Page'
+title = 'Céline Wang, Personal Web Page'
 theme = 'hugo-theme-m10c'
 
 [pagination]
