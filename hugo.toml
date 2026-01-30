@@ -1,6 +1,6 @@
 baseURL = 'https://celinewang.fr/'
 languageCode = 'en-us'
-title = 'Céline Wang, Personal Web Page'
+title = 'Personal Web Page'
 theme = 'hugo-theme-m10c'
 
 [pagination]
@@ -14,11 +14,18 @@ theme = 'hugo-theme-m10c'
     email = "celine.wang@univ-lille.fr"
     sidebarTitle = "Céline Wang"
     
+   
     [[params.social]]
         name = "Email"
         url = "mailto:celine.wang@univ-lille.fr"
         icon = "mail"
-    
+ [params.style]
+    darkestColor =  "#1a1a1a"
+    darkColor    =  "#2d2d2d"
+    lightColor   = "#c0c0c0"
+    lightestColor= "#ffffff"
+    primaryColor = "#419ab0"
+
 [menu]
     [[menu.main]]
         identifier = "about"
