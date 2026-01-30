@@ -1,4 +1,4 @@
-baseURL = 'https://celine-wang-these.github.io/'
+baseURL = 'https://celinewang.fr/'
 languageCode = 'en-us'
 title = 'Céline Wang, Personal Web Page'
 theme = 'hugo-theme-m10c'
