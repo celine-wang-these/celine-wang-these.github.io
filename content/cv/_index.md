@@ -6,7 +6,7 @@ You can find a pdf version of my CV <a href="./CV.pdf" target="_blank" rel="noop
 ## Education 
 * 2023 - Now: **PhD in Mathematics** (Université de Lille, affiliations: [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) and [Inria, PARADYSE](https://www.inria.fr/fr/paradyse))
 * 2022 - 2023: **Master's Degree in Mathematics** (Université de Lille)
-* 2019 - 2023: **Master's Degree in Engineering**(École Centrale de Lille)
+* 2019 - 2023: **Master's Degree in Engineering** (École Centrale de Lille)
 * 2021 - 2022: **Agrégation externe de Mathématiques**, the highest competitive test to become a mathematics teacher in France
 * 2017 - 2019: **Classes Préparatoires aux Grandes Ecoles (CPGE), Math-Physical sciences branch** (Lycée Saint-Louis)
 
@@ -26,4 +26,4 @@ French (native), Chinese (native), English (B2), Spanish (fundamentals)
 
 ## Conferences attended
 * **Applied Analysis and Modeling**, Nov. 2024, Lille
-* **Research School: Ecology, Epidemiology and Evolution**, Oct. 2023, *CIRM*, Marseille
+* **Research School: Ecology, Epidemiology and Evolution**, Oct. 2023 (CIRM), Marseille
