@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/cv/</loc>
   </url><url>
+    <loc>http://localhost:1313/miscellaneous/</loc>
+  </url><url>
     <loc>http://localhost:1313/papers/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

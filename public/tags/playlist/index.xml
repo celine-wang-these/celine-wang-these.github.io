@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlist on Personal Web Page</title>
+    <link>http://localhost:1313/tags/playlist/</link>
+    <description>Recent content in Playlist on Personal Web Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/playlist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Playlist</title>
+      <link>http://localhost:1313/miscellaneous/music/playlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellaneous/music/playlist/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

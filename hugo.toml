@@ -43,6 +43,12 @@ theme = 'hugo-theme-m10c'
         name = "Papers"
         url = "/papers/"
         weight = 3
+    
+    [[menu.main]]
+        identifier = "miscellaneous"
+        name = "Miscellaneous"
+        url = "/miscellaneous/"
+        weight = 4
 
 [markup]
   [markup.goldmark]
