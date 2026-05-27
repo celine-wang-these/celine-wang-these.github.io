@@ -8,7 +8,7 @@ theme = 'hugo-theme-m10c'
 
 [params]
     author = "Céline Wang"
-    avatar = "./avatar.png"
+    avatar = "./profil.png"
     description = "PhD student in Mathematics Applied to Ecology."
     menu_item_separator = " - "
     email = "celine.wang@univ-lille.fr"
