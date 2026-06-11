@@ -16,3 +16,6 @@ title: "Miscellaneous"
 - <a href="https://www.youtube.com/watch?v=RlPNh_PBZb4&list=RDRlPNh_PBZb4&start_radio=1" target="_blank" rel="noopener noreferrer">Olivia Rodrigo -- Vampire </a>
 - <a href="https://www.youtube.com/watch?v=yNKA1SApGb0&list=RDyNKA1SApGb0&start_radio=1" target="_blank" rel="noopener noreferrer">Amon Tobin -- Chocolate Lovely</a>
 
+## Drawings
+
+<img src="/SW.png" width="20%"/>
