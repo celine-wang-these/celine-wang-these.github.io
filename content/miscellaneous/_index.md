@@ -18,4 +18,4 @@ title: "Miscellaneous"
 
 ## Drawings
 
-<img src="/SW.png" width="20%"/>
+<img src="/SW.png" width="200px"/>
