@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 ---
-You can find a pdf version of my CV <a href="./CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+You can find a pdf version of my CV (in french) <a href="./CV-site.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## Education 
 * 2023 - Now: **PhD in Mathematics** (Université de Lille, affiliations: [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) and [Inria, PARADYSE](https://www.inria.fr/fr/paradyse))
@@ -25,5 +25,6 @@ French (native), Chinese (native), English (B2), Spanish (fundamentals)
     * **ECS 2** (2021-2022)
 
 ## Conferences attended
+* **Journées Math Bio Santé**, Nov. 2026, Lille
 * **Applied Analysis and Modeling**, Nov. 2024, Lille
 * **Research School: Ecology, Epidemiology and Evolution**, Oct. 2023 (CIRM), Marseille
