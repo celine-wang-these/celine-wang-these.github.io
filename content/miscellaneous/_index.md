@@ -12,6 +12,7 @@ title: "Miscellaneous"
 - <a href="https://www.youtube.com/watch?v=2BxTwJtpGYA&list=RD2BxTwJtpGYA&start_radio=1" target="_blank" rel="noopener noreferrer">Sheryl Crow -- Tomorrow Never Dies</a>
 - <a href="https://www.youtube.com/watch?v=yCDd6EIJ9Z8&list=RDyCDd6EIJ9Z8&start_radio=1" target="_blank" rel="noopener noreferrer">Fanny Mendelssohn -- September (Das Jahr)</a>
 - <a href="https://www.youtube.com/watch?v=slrCsvifsAY&list=RDslrCsvifsAY&start_radio=1" target="_blank" rel="noopener noreferrer">Astor Piazzolla -- Histoire du Tango (for Flute and Guitar)</a>
+- <a href="https://www.youtube.com/watch?v=lX0NVELIUwc&list=RDlX0NVELIUwc&start_radio=1" target="_blank" rel="noopener noreferrer">Emma Prat and Theo Kaiser -- Avant </a>
 - <a href="https://www.youtube.com/watch?v=JF2REx4keZA&list=RDJF2REx4keZA&start_radio=1" target="_blank" rel="noopener noreferrer">Barbara Pravi -- La Femme </a>
 
 - <a href="https://www.youtube.com/watch?v=_VCkuCVK2Pg&list=RD_VCkuCVK2Pg&start_radio=1">Serguei Rachmaninoff -- Prélude Op. 23 n°4 (Irina Lankova) </a>
